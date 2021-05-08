@@ -1,0 +1,33 @@
+h1
+{
+    text-align: center;
+    color: blueviolet;
+}
+
+img{
+    width: 400px;
+    display: block;
+    margin: auto;
+}
+
+ul
+{
+    list-style: inside;
+}
+
+
+
+.accordion
+{
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+}
+
+.btn
+{
+    background-color: cadetblue;
+    color: wheat;
+    border: 3px;
+    border-color: crimson;
+}
